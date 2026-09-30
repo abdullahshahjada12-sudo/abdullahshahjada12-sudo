@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Karvion Labs - Automation & SQA Engineering" />
+  <img src="https://raw.githubusercontent.com/abdullahshahjada12-sudo/abdullahshahjada12-sudo/main/assets/header.svg" width="100%" alt="Karvion Labs - Automation & SQA Engineering" />
 </p>
 
 <p align="center">
