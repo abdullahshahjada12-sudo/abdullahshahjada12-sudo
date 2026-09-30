@@ -1,23 +1,30 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullahshahjada12-sudo/abdullahshahjada12-sudo/main/assets/header.svg" width="100%" alt="Karvion Labs - Automation & SQA Engineering" />
+  <img src="https://raw.githubusercontent.com/abdullahshahjada12-sudo/abdullahshahjada12-sudo/main/assets/banner.jpg" width="100%" alt="Karvion Labs Official Banner" />
 </p>
+
+<!-- Dynamic Motion Typing Console -->
+<div align="center">
+  <a href="https://github.com/abdullahshahjada12-sudo">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=780&lines=Karvion+Labs+%E2%80%A2+Automation+%26+SQA+Engineering+%E2%9A%A1;End-to-End+Test+Automation+(Selenium+%E2%80%A2+Playwright+%E2%80%A2+Cypress);Automated+API+Testing+with+Postman+%26+Newman+%F0%9F%9B%A0%EF%B8%8F;Intelligent+AI+%26+Autonomous+Workflow+Specialist+%F0%9F%A4%96;Professional+SQA+%26+Automation+Trainee+%40+RSN+Foundation+%F0%9F%8E%93;Eliminating+Manual+Bottlenecks+Through+Smart+Code+%F0%9F%9A%80" alt="Dynamic Motion Text" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Test%20Automation%20%26%20SQA-0284c7?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Academy-RSN%20Foundation-059669?style=for-the-badge" alt="Academy" />
   <img src="https://img.shields.io/badge/Agency-Karvion%20Labs-7c3aed?style=for-the-badge" alt="Agency" />
   <a href="https://karvion-bd-five.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_App-Karvion%20BD-0f172a?style=for-the-badge&logo=vercel" alt="Karvion BD" />
+    <img src="https://img.shields.io/badge/Live_App-Karvion%20BD-0f172a?style=for-the-badge&logo=vercel&logoColor=00f2fe" alt="Karvion BD" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me & Karvion Labs
+### 👨‍💻 Executive Summary & Mission
 
-Hello! I am **Abdullah Karif Shahjada**, the founder and lead engineer at **Karvion Labs**. I specialize in building industrial-grade **Test Automation Frameworks (SQA)** and intelligent workflow solutions that eliminate repetitive manual testing and prevent production bugs.
+I am **Abdullah Karif Shahjada**, the Founder & Principal Engineer at **Karvion Labs**. I specialize in engineering bulletproof **Test Automation Frameworks (SQA)** and autonomous AI-driven workflows that eliminate repetitive manual testing, prevent critical production regressions, and accelerate software delivery.
 
-- 🏢 **Organization:** Founder & Lead Engineer at **Karvion Labs**
+- 🏢 **Organization:** Founder & Lead at **Karvion Labs**
 - 🎓 **Active Training:** Intensive 3-Month Professional SQA & Test Automation Program at **RSN Foundation**
 - 🎯 **Primary Focus:** End-to-End Web & API Automation, Robust Regression Suites, Continuous Quality CI/CD
 - 📍 **Location:** Bangladesh 🇧🇩
